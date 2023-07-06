@@ -1,7 +1,7 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Login2design Technologies',
+        company: 'Login2design Technologies, Jaipur',
         jobtitle: 'Graphic Designer (Remote)',
         startYear: 'March 2023',
         endYear: 'June 2023'
