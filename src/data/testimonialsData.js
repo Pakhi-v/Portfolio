@@ -13,7 +13,7 @@ export const testimonialsData = [
         id: 1,
         name: 'Bhavya Tyagi',
         title: 'Founder & CEO @Upbite Digital',
-        text: "Pakhi Vashishth is fantastic to work with, and has outstanding experience in designing skils, creativity. Her hands-on strategy to designing skils, creativity and powerful personality gained her the respect of the team. Pakhi Vashishth leads by example and many people at Upbite Digital find her enthusiasm and dedication both inspiring and motivating.",
+        text: "Pakhi Vashishth is fantastic to work with, and has outstanding experience in designing skils, creativity. Pakhi Vashishth leads by example and many people at Upbite Digital find her enthusiasm and dedication both inspiring and motivating.",
         image: boy2
     },
 
