@@ -5,6 +5,9 @@ import color from '../assets/pdf/color.png'
 import todo from '../assets/pdf/todo.png'
 import paw from '../assets/pdf/paw.png'
 import git from '../assets/pdf/git.jpg'
+import fit from '../assets/pdf/fit.png'
+import cinema from '../assets/pdf/cinema.png'
+
 
 export const projectsData = [
     {
@@ -18,6 +21,24 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'Cinemava',
+        projectDesc: 'This is a completely responsive web app based on TMDB API, build using React js.',
+        tags: ['ReactJS', 'TMDB API', 'Javascript', 'Material UI'],
+        code: 'https://github.com/Pakhi-v/Cinemava',
+        demo: 'https://watch-cinemava.netlify.app/',
+        image: cinema
+    },
+    {
+        id: 3,
+        projectName: 'Fitflex',
+        projectDesc: 'A destination to empower individuals with all fitness levels.',
+        tags: ['ReactJS', 'Rapid API', 'Material UI'],
+        code: 'https://github.com/Pakhi-v/FitFlex',
+        demo: 'https://fitflex-pakhi.netlify.app/',
+        image: fit
+    },
+    {
+        id: 4,
         projectName: 'SMS-Spam-Detection',
         projectDesc: 'Developed a machine learning model for accurately detecting spam messages in SMS communications.',
         tags: ['Python', 'Pandas', 'matplotlib', 'ML'],
@@ -26,7 +47,7 @@ export const projectsData = [
         image: sms
     },
     {
-        id: 3,
+        id: 5,
         projectName: 'Resume Builder',
         projectDesc: 'A+ resume builder is an online tool that you can use to quickly create a resume.',
         tags: ['HTML', 'CSS', 'Material Ui', 'JS'],
@@ -35,7 +56,7 @@ export const projectsData = [
         image: resume
     },
     {
-        id: 4,
+        id: 6,
         projectName: 'Color-detection-using-OpenCV',
         projectDesc: 'Made a basic Object Detector by color using OpenCV python. Here we implemented the Color detection and Segmentation Technique.',
         tags: ['Python', 'OpenCV'],
@@ -44,7 +65,7 @@ export const projectsData = [
         image: color
     },
     {
-        id: 5,
+        id: 7,
         projectName: 'Todo-Application',
         projectDesc: 'A project built using React and Firebase to store/edit/delete Todo',
         tags: ['React', 'Firebase'],
@@ -53,7 +74,7 @@ export const projectsData = [
         image: todo
     },
     {
-        id: 6,
+        id: 8,
         projectName: 'Paw-Order',
         projectDesc: 'A simple dynamic E-commerce website front-end designed for Pet Stuff',
         tags: ['HTML, CSS, JS'],
@@ -62,7 +83,7 @@ export const projectsData = [
         image: paw
     },
     {
-        id: 7,
+        id: 9,
         projectName: 'Github',
         projectDesc: 'To have look on some more of my projects do visit my Github account',
         tags: ['Projects', 'Github'],
