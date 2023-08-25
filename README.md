@@ -1,3 +1,3 @@
 # Personal Portfolio - Made using ReactJS
 
-Watch live at: https://pakhiv-portfolio.netlify.app/
+Watch live: https://pakhiv-portfolio.netlify.app/
