@@ -1,3 +1,4 @@
+import poly from '../assets/pdf/poly.png'
 export const blogData = [
     {
         id: 1,
@@ -14,6 +15,14 @@ export const blogData = [
         date: 'Oct 14, 2022',
         image: '',
         url: 'https://medium.com/@pakhivashis182001/5-best-projects-for-beginners-in-web-development-c987ba8df9fd'
+    },
+    {
+        id: 3,
+        title: 'My Journey as SDE Intern @Polyplex',
+        description: 'Sharing my Internship Experience about SAP.',
+        date: 'July 20, 2023',
+        image: poly,
+        url: 'https://medium.com/@pakhivashis182001/my-journey-as-sde-intern-polyplex-9b5f5144304f'
     },
 ]
 
